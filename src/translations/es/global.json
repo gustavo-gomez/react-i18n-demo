@@ -1,0 +1,10 @@
+{
+  "name": "Yo soy {{author.name}}",
+  "formatCurrency": "$t(name, {\"author\":{{author}}) y tengo {{val, currency(PEN)}}",
+  "description": {
+    "part1": "Edita <1>src/App.js</1> y guarda para recargar.",
+    "part2": "Aprende React"
+  },
+  "counter_one": "Se ha cambiado una vez el idioma",
+  "counter_other": "Se ha cambiado el idioma {{count}} veces"
+}
