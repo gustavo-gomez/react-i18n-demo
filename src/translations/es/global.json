@@ -1,5 +1,5 @@
 {
-  "name": "Yo soy {{author.name}}",
+  "name": "yo soy {{author.name}} {{author.lastName}} ",
   "formatCurrency": "$t(name, {\"author\":{{author}}) y tengo {{val, currency(PEN)}}",
   "description": {
     "part1": "Edita <1>src/App.js</1> y guarda para recargar.",
